@@ -9,7 +9,7 @@ Fell free to [connect](#contact) us.
 
 ### Contact
 
-Web: https://du4l-sh3ll.github.io/du4l.org/
+Web: https://du4l.org/
 
 Mail: contact@du4l.org
 
