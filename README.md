@@ -21,7 +21,7 @@ GPG fingerprint is following soon...
 
 | Name | Page | Score | Date |
 | ----------- | ----------- | ---------- | ----------- |
-| BalsnCTF | [link](https://balsnctf.com/) | | |
+| BalsnCTF | [link](https://balsnctf.com/) | 50 | 20.11.2021 |
 
 
 ### Credtis
