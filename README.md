@@ -24,6 +24,9 @@ GPG fingerprint is following soon...
 | Name | Page | Score | Date |
 | ----------- | ----------- | ---------- | ----------- |
 | BalsnCTF | [link](https://balsnctf.com/) | 50 | 20.11.2021 |
+| CyberSecurityRumble | [link](https://ctf.cybersecurityrumble.de/pages/home/) | 1352 | 28.11.2021 |
+| ISITDTU | [link](https://ctf.isitdtu.com/) | 10 | 28.11.2021 | 
+
 
 
 ### Credtis
