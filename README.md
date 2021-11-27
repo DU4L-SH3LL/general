@@ -11,6 +11,8 @@ Fell free to [connect](#contact) us.
 
 Web: https://du4l.org/
 
+CTFtime: https://ctftime.org/team/170921
+
 Mail: contact@du4l.org
 
 GPG fingerprint is following soon...
