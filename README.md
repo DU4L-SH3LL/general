@@ -1,4 +1,4 @@
-# Welcome to **DU4L-SH3LL** the offical DHBW CTF team
+# Welcome to **DU4L** the offical DHBW CTF team
 
 W3llcome in the space of the DHBW Mannheim CTF Team called DU4L. We are a team build out of Cyber Security Students from Germany.
 
